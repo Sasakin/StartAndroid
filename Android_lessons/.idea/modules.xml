@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android_lessons.iml" filepath="$PROJECT_DIR$/Android_lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0051_LayoutFiles/P0051_LayoutFiles.iml" filepath="$PROJECT_DIR$/P0051_LayoutFiles/P0051_LayoutFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0061_Layouts/P0061_Layouts.iml" filepath="$PROJECT_DIR$/P0061_Layouts/P0061_Layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0072_LayoutProp/P0072_LayoutProp.iml" filepath="$PROJECT_DIR$/P0072_LayoutProp/P0072_LayoutProp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0081_ViewById/P0081_ViewById.iml" filepath="$PROJECT_DIR$/P0081_ViewById/P0081_ViewById.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0091_OnClickButtons/P0091_OnClickButtons.iml" filepath="$PROJECT_DIR$/P0091_OnClickButtons/P0091_OnClickButtons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0101_Listener/P0101_Listener.iml" filepath="$PROJECT_DIR$/P0101_Listener/P0101_Listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0102_ActivityListener/P0102_ActivityListener.iml" filepath="$PROJECT_DIR$/P0102_ActivityListener/P0102_ActivityListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0111_ResValues/P0111_ResValues.iml" filepath="$PROJECT_DIR$/P0111_ResValues/P0111_ResValues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0121_LogAndMess/P0121_LogAndMess.iml" filepath="$PROJECT_DIR$/P0121_LogAndMess/P0121_LogAndMess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0131_MenuSimple/P0131_MenuSimple.iml" filepath="$PROJECT_DIR$/P0131_MenuSimple/P0131_MenuSimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0141_MenuAdv/P0141_MenuAdv.iml" filepath="$PROJECT_DIR$/P0141_MenuAdv/P0141_MenuAdv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0151_ContextMenu/P0151_ContextMenu.iml" filepath="$PROJECT_DIR$/P0151_ContextMenu/P0151_ContextMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0161_DynamicLayout/P0161_DynamicLayout.iml" filepath="$PROJECT_DIR$/P0161_DynamicLayout/P0161_DynamicLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0171_DynamicLayout2/P0171_DynamicLayout2.iml" filepath="$PROJECT_DIR$/P0171_DynamicLayout2/P0171_DynamicLayout2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0181_DynamicLayout3/P0181_DynamicLayout3.iml" filepath="$PROJECT_DIR$/P0181_DynamicLayout3/P0181_DynamicLayout3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0191_SimpleCalculator/P0191_SimpleCalculator.iml" filepath="$PROJECT_DIR$/P0191_SimpleCalculator/P0191_SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0201_SimpleAnimation/P0201_SimpleAnimation.iml" filepath="$PROJECT_DIR$/P0201_SimpleAnimation/P0201_SimpleAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0231_OneActivityState/P0231_OneActivityState.iml" filepath="$PROJECT_DIR$/P0231_OneActivityState/P0231_OneActivityState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0241_TwoActivityState/P0241_TwoActivityState.iml" filepath="$PROJECT_DIR$/P0241_TwoActivityState/P0241_TwoActivityState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0261_IntentFilter/P0261_IntentFilter.iml" filepath="$PROJECT_DIR$/P0261_IntentFilter/P0261_IntentFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0271_GetIntentAction/P0271_GetIntentAction.iml" filepath="$PROJECT_DIR$/P0271_GetIntentAction/P0271_GetIntentAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0281_IntentExtras/P0281_IntentExtras.iml" filepath="$PROJECT_DIR$/P0281_IntentExtras/P0281_IntentExtras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0291_SimpleActivityResult/P0291_SimpleActivityResult.iml" filepath="$PROJECT_DIR$/P0291_SimpleActivityResult/P0291_SimpleActivityResult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0301_ActivityResult/P0301_ActivityResult.iml" filepath="$PROJECT_DIR$/P0301_ActivityResult/P0301_ActivityResult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0311_SimpleIntents/P0311_SimpleIntents.iml" filepath="$PROJECT_DIR$/P0311_SimpleIntents/P0311_SimpleIntents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0321_SimpleBrowser/P0321_SimpleBrowser.iml" filepath="$PROJECT_DIR$/P0321_SimpleBrowser/P0321_SimpleBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0331_SharedPreferences/P0331_SharedPreferences.iml" filepath="$PROJECT_DIR$/P0331_SharedPreferences/P0331_SharedPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0341_SimpleSQLite/P0341_SimpleSQLite.iml" filepath="$PROJECT_DIR$/P0341_SimpleSQLite/P0341_SimpleSQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0361_SQLiteQuery/P0361_SQLiteQuery.iml" filepath="$PROJECT_DIR$/P0361_SQLiteQuery/P0361_SQLiteQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0371_SQLiteInnerJoin/P0371_SQLiteInnerJoin.iml" filepath="$PROJECT_DIR$/P0371_SQLiteInnerJoin/P0371_SQLiteInnerJoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0381_SQLiteTransaction/P0381_SQLiteTransaction.iml" filepath="$PROJECT_DIR$/P0381_SQLiteTransaction/P0381_SQLiteTransaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0391_SQLiteOnUpgradeDB/P0391_SQLiteOnUpgradeDB.iml" filepath="$PROJECT_DIR$/P0391_SQLiteOnUpgradeDB/P0391_SQLiteOnUpgradeDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" filepath="$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0180constraintlayoutintro/p0180constraintlayoutintro.iml" filepath="$PROJECT_DIR$/p0180constraintlayoutintro/p0180constraintlayoutintro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0211twoactivity/p0211twoactivity.iml" filepath="$PROJECT_DIR$/p0211twoactivity/p0211twoactivity.iml" />
+    </modules>
+  </component>
+</project>
